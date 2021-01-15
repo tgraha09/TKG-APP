@@ -1,0 +1,30 @@
+:root{
+    --defC: #000000;
+    --defSize: 500px;
+    --defHtxt: 50px;
+}
+
+tkg-disp{
+    
+    position: absolute;
+    width: var(--defSize);
+    height: var(--defSize);
+
+    background: unset;
+}
+
+tkg-disp-sub1{
+    position: absolute;
+    width: var(--defSize);
+    min-height: var(--defHtxt);
+
+    background: #676767;
+}
+
+tkg-disp-sub2{
+    position: absolute;
+width: 500px;
+height: 450px;
+
+background: #FFFFFF;
+}

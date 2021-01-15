@@ -1,0 +1,36 @@
+https://www.w3schools.com/react/react_getstarted.asp
+
+ELECTRON + React
+
+https://flaviocopes.com/react-electron/
+
+React installs
+
+npm install -g create-react-app
+
+npx create-react-app myfirstreact
+
+Run app - cd myfirstreact
+
+ npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd <app name>
+  npm start
+
+  https://css-tricks.com/css-modules-part-2-getting-started/
+
+  WEBPACK npm i webpack-cli@3.3.12 https://www.npmjs.com/package/webpack-cli/v/3.3.12
+
+  npm install webpack -g
+
+  npm i -D webpack

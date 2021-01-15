@@ -1,0 +1,22 @@
+tkg-accordian{
+    transition: initial;
+}
+
+.ta-sub-ul{
+    list-style-type: none;
+    padding: 0;
+    
+    
+}
+
+
+
+.ta-sub-bttn{
+    width: fit-content;
+    display: inline-block;
+}
+
+.tc-sub-cont{
+    
+    
+}

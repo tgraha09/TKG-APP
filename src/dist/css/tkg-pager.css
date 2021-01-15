@@ -1,0 +1,60 @@
+.tkg-pager{
+    
+    
+    
+   
+    
+    
+}
+
+.tkg-pg-bttn {
+    display: grid;
+    position: relative;
+    grid-row: 1;
+
+    height: fit-content;
+    width: min-content;
+	overflow-y: hidden;
+	cursor: pointer;
+    
+    text-align: center;
+
+}
+
+.tkg-controller{
+    width: inherit;
+    height: inherit;
+    z-index: 1;
+    list-style: none;
+     
+    float: left;  
+    display: grid;
+    grid-template-columns: 200px;
+    grid-template-rows: repeat(6, 1fr);
+}
+
+.tkg-page{
+    
+    display: grid;
+    height: fit-content;
+    width: fit-content;
+    z-index: 2;
+    float: left;
+    grid-row: 1;
+}
+
+
+
+
+tkg-pg-content {
+    
+    position: absolute;
+    display: grid;
+    justify-content: center;
+    height: inherit; 
+    width: inherit;
+    overflow: hidden;
+    z-index: 3;
+    grid-row: 2;
+    
+}
